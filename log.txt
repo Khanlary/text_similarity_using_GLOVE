@@ -1,0 +1,21 @@
+2020-07-14 12:32:47 INFO     Path of word vector file is :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:32:47 INFO     Reading :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:32:54 INFO     file read successfully!
+2020-07-14 12:35:00 INFO     Path of word vector file is :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:00 INFO     Reading :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:03 INFO     file read successfully!
+2020-07-14 12:35:25 INFO     Path of word vector file is :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:25 INFO     Reading :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:27 INFO     file read successfully!
+2020-07-14 12:35:30 INFO     Path of word vector file is :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:30 INFO     Reading :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:32 INFO     file read successfully!
+2020-07-14 12:35:51 INFO     Path of word vector file is :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:51 INFO     Reading :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:35:53 INFO     file read successfully!
+2020-07-14 12:36:42 INFO     Path of word vector file is :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:36:42 INFO     Reading :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:36:44 INFO     file read successfully!
+2020-07-14 12:36:59 INFO     Path of word vector file is :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:36:59 INFO     Reading :D:/Datasets/glove.6B/glove.6B.100d
+2020-07-14 12:37:01 INFO     file read successfully!

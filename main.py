@@ -57,8 +57,22 @@ def read_word_vectors_as_text(vector_file_index=1):
         return None    
 
 def create_word_vector_dictionary_from_text(word_vectors_text):
+    """
+    create word vector for each word by parsing the text file 
+
+    Parameters
+    ----------
+    word_vectors_text : str
+        Content of word to vector file in text format.
+
+    Returns
+    -------
+    word_vector_dict : dict
+        Dictionary with word as keys and value as its corrosponding vector.
+
+    """
     word_vector_dict={}
-    lines = word_vectors_text.split()
+    lines = word_vectors_text.split('\n')
     for line in lines:
         temp = line.split(" ")
         word_vector_dict[temp[0]] = temp[1:]
